@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # qurcode
 
 A new Flutter project.
@@ -15,3 +16,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # qurcode
+=======
+# qurcode
+Barcode app based on flutter
+>>>>>>> aba237b59d1c4fa3e37e88068b4bfbe2c8f7a5f3
