@@ -19,3 +19,11 @@ samples, guidance on mobile development, and a full API reference.
 # Technology & Library
 - Bloc
 - Hive no Sql
+
+## Support Me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R27Z8R8)
+
+If this is template is useful for you and you want to support me, I really appreciate it. 
+This will give me motivation to keep doing more content like this.
+
+Do you want to add more features? [Reach me out](https://reven-erlangga.carrd.co/)
